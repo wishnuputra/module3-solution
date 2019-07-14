@@ -1,0 +1,24 @@
+#chicken {
+    background-color: antiquewhite;
+    padding: 10px;
+    margin: 10px;
+}
+
+#chicken p {
+    text-align: justify;
+    line-height: 2;
+    padding: 10px;
+}
+
+#nav-list a {
+    text-align: center;
+    font-size: 1.2em;
+}
+
+#nav-list a:hover {
+    background-color: orange;
+}
+
+.navbar-brand {
+    font-size: 1.5em;
+}

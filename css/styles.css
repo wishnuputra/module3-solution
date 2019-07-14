@@ -19,6 +19,8 @@
     background-color: orange;
 }
 
-.navbar-brand {
-    font-size: 1.5em;
+#site-brand{
+    font-size: 1.3em;
+    margin: 0;
+    color: darkorange;
 }
